@@ -1,1 +1,1 @@
-print ("I am MJ")
+print("I am MJ")
