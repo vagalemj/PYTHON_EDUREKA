@@ -7,7 +7,7 @@ a=2
 b=3
 print(a+b)
 
-#DOCSTRINGS
+#DOCSTRING
 a=2
 b=3
 c=a+b
