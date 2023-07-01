@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -8,11 +9,16 @@
       <change beforePath="$PROJECT_DIR$/COLLECTION/DEQUE.py" beforeDir="false" afterPath="$PROJECT_DIR$/COLLECTION/DEQUE.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/COLLECTION/test.py" beforeDir="false" />
     </list>
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="b7729719-4fc0-4d9f-816c-8c0d28afc77a" name="Changes" comment="PYTHON" />
+>>>>>>> PYTHON_EDUREKA/main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -28,13 +34,22 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RzWUAyWvRmntxdXMUbNhJgWkNY" />
+>>>>>>> PYTHON_EDUREKA/main
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "ASKED_ADD_EXTERNAL_FILES": "true",
+=======
+>>>>>>> PYTHON_EDUREKA/main
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -59,6 +74,7 @@
       <option name="project" value="LOCAL" />
       <updated>1688253561566</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00002" summary="PYTHON">
       <option name="closed" value="true" />
       <created>1688253707958</created>
@@ -76,6 +92,9 @@
       <updated>1688253752491</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+=======
+    <option name="localTasksCounter" value="2" />
+>>>>>>> PYTHON_EDUREKA/main
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,7 +109,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+=======
+>>>>>>> PYTHON_EDUREKA/main
     <MESSAGE value="PYTHON" />
     <option name="LAST_COMMIT_MESSAGE" value="PYTHON" />
   </component>
