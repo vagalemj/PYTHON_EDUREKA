@@ -6,17 +6,19 @@ e='madhu','sudhan'          #CHARACTER
 
 print(e+c)                  #adding char and tuple
 
-print(tuple(a))
-print(tuple(b))
-print(tuple(d))
-print(tuple(e))
+#CONVERTING
 
-print(list(b))
-print(list(c))
-print(list(d))
-print(list(e))
+print(tuple(a))     #LIST -> TUPLE
+print(tuple(b))     #DICTIONARY -> TUPLE
+print(tuple(d))     #SET -> TUPLE
+print(tuple(e))     #CHAR -> TUPLE
 
-print(set(a))
-print(set(b))
-print(set(c))
-print(set(e))
+print(list(b))      #DICTIONARY -> LIST
+print(list(c))      #TUPLE -> LIST
+print(list(d))      #SET -> LIST
+print(list(e))      #CHAR -> LIST
+
+print(set(a))       #LIST -> SET
+print(set(b))       #DICTIONARY -> SET
+print(set(c))       #TUPLE -> SET
+print(set(e))       #CHAR -> SET
