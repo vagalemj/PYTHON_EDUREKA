@@ -14,3 +14,5 @@ sub={2:1, 1:1}
 print(b.subtract(sub))  #subtraction of number of elements
 
 print(b.most_common())
+
+print(b.keys())         #prints the keys
