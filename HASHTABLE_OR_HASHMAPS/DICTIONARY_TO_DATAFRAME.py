@@ -9,6 +9,6 @@ mj_dict = {'employee':
     }
 }
 
-df=pd.DataFrame(mj_dict['employee'])
+df=pd.DataFrame(mj_dict['employee'])    #converts dictionary to data frames (rows and c)
 
 print(df)
