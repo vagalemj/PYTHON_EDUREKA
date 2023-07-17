@@ -4,7 +4,7 @@ print(mj_dict)
 
 print(mj_dict.pop('sudhan'))    #pops specific key pair
 
-print(mj_dict.popitem())        #pops specific item
+print(mj_dict.popitem())        #pops last item
 
 del mj_dict['madhu']            #deletes the record
 
